@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task_006</string>
+    <string name="title_color_quality">Цветовое качество</string>
+    <string name="title_exit_application">Выход из приложения</string>
+</resources>
